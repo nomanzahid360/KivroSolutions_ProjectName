@@ -13,28 +13,6 @@ Demonstrates:
 - Random number generation  
 - Loops and conditionals  
 - User input validation  
-
-### 📊 **Task 2 – Student Grade Calculator**
-Takes student marks as input and calculates total, average, and grade.  
-Demonstrates:
-- Basic arithmetic operations  
-- Conditional logic for grading  
-- Clean and structured output  
-
-### 🗒️ **Task 3 – To-Do List App**
-A simple command-line app for managing tasks — add, view, and delete items.  
-Demonstrates:
-- Lists and loops  
-- File handling (optional)  
-- Menu-based program design  
-
-### 🔐 **Task 4 – Password Validator**
-Validates password strength based on specific rules (length, uppercase, lowercase, digits, and symbols).  
-Demonstrates:
-- String handling  
-- Regular expressions (`re` module)  
-- Logical checks and feedback  
-
 ---
 
 ## 🧰 Technologies Used
