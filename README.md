@@ -13,6 +13,17 @@ Demonstrates:
 - Random number generation  
 - Loops and conditionals  
 - User input validation  
+
+---
+
+### 🎓 **Task 2 – Simple Student Grade Calculator**
+A program that allows the user to input a student’s name and marks for three subjects.  
+It calculates the **total marks**, **average**, and assigns a **grade (A, B, C, D, or F)** based on the average.  
+Demonstrates:
+- Use of **functions** for modular design  
+- **Arithmetic operations** and conditional logic  
+- **Formatted output** for clean display  
+
 ---
 
 ## 🧰 Technologies Used
@@ -25,4 +36,3 @@ Demonstrates:
 1. Clone the repository:
    ```bash
    git clone https://github.com/nomanzahid360/KivroSolutions_ProjectName.git
-
