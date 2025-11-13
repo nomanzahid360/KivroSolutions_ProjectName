@@ -36,6 +36,16 @@ Demonstrates:
 
 ---
 
+### 🔒 **Task 4 – Simple Password Validator**
+A Python program that validates passwords based on specific rules to ensure basic security.  
+The user can test multiple passwords until choosing to exit.  
+Demonstrates:
+- **String operations** (`isdigit()`, `isupper()`, `len()`)  
+- **Conditional logic** for multiple checks  
+- **Loops and functions** for clean validation flow  
+
+---
+
 ## 🧰 Technologies Used
 - **Python 3+**
 - Built-in modules: `random`, `re`, `os`
