@@ -26,6 +26,16 @@ Demonstrates:
 
 ---
 
+### ✅ **Task 3 – Simple To-Do List App**
+A menu-based Python program that allows users to **add, view, and delete tasks** from a to-do list.  
+It uses a loop so the program continues running until the user chooses to exit.  
+Demonstrates:
+- **List operations** for storing tasks  
+- **Loops and menus** for continuous interaction  
+- **Functions** for better structure and readability  
+
+---
+
 ## 🧰 Technologies Used
 - **Python 3+**
 - Built-in modules: `random`, `re`, `os`
